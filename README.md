@@ -114,7 +114,7 @@ Hi, I'm Sebastian Silva!
 
 <p align="center">
 	<a href="https://github.com/ssilvalab">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="ssilvalab">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssilvalab&langs_count=8&layout=compact" alt="ssilvalab">
 	</a>
 	<br/>
 <br/>
