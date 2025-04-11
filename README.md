@@ -48,7 +48,7 @@ Hi, I'm Sebastian Silva!
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/ssilvalab"><img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB%3Flogo%3Dreact%26logoColor%3Dwhite%26style%3Dfor-the-badge"></a>
+    <a href="https://github.com/ssilvalab"><img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
